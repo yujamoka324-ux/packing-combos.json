@@ -650,5 +650,17 @@
     "count": 1
    }
   ]
+ },
+ {
+  "pairs": [
+   {
+    "weight": 150,
+    "count": 90
+   },
+   {
+    "weight": 350,
+    "count": 1
+   }
+  ]
  }
 ]

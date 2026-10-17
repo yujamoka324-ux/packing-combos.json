@@ -734,5 +734,21 @@
     "count": 55
    }
   ]
+ },
+ {
+  "pairs": [
+   {
+    "weight": 150,
+    "count": 65
+   },
+   {
+    "weight": 170,
+    "count": 15
+   },
+   {
+    "weight": 150,
+    "count": 10
+   }
+  ]
  }
 ]
